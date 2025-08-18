@@ -1,0 +1,17 @@
+[project]
+name = "extract-finetuning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.10.0",
+    "datasets>=4.0.0",
+    "gpustat>=1.1.1",
+    "monai>=1.4.0",
+    "numpy>=1.26.4",
+    "pillow>=11.3.0",
+    "torch>=2.8.0",
+    "transformers>=4.55.2",
+    "wandb>=0.21.1",
+]
