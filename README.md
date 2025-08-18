@@ -1,1 +1,1 @@
-wandb login
+Repo for finetuning SAM. 
