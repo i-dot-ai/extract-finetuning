@@ -8,7 +8,7 @@ dependencies = [
     "accelerate>=1.10.0",
     "datasets>=4.0.0",
     "gpustat>=1.1.1",
-    "monai>=1.4.0",
+    "monai==1.5.2",
     "numpy>=1.26.4",
     "pillow>=11.3.0",
     "torch>=2.8.0",
